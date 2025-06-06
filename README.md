@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 I am currently working on mobile application architecture, specifically focusing on native Android development with Kotlin. I also have significant experience with cross-platform solutions such as React Native (Android/iOS) and exploring Kotlin Multiplatform.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthiganesan90&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=karthiganesan90&show_icons=true&theme=dark" alt="Your GitHub Stats" />
 
 ## Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiganesan90&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiganesan90&layout=compact&theme=dark" alt="Top Languages" />
