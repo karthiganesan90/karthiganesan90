@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About My Work
+
+I am currently working on mobile application architecture, specifically focusing on native Android development with Kotlin. I also have significant experience with cross-platform solutions such as React Native (Android/iOS) and exploring Kotlin Multiplatform.
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=karthiganesan90&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 
