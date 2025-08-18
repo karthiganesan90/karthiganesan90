@@ -92,9 +92,4 @@ This roadmap is for experienced Android developers who want to master **modern A
     👉 [KMM Docs](https://kotlinlang.org/lp/mobile/)
 - [ ] **Final Project:** Convert News app into a production-level app
 
----
 
-### ✅ How to use this?
-- Copy this to a **GitHub repo README.md**.
-- Check off items as you complete them.
-- Use **projects & issues** for detailed tracking.
